@@ -1,4 +1,4 @@
-27. Summary for Programmer
+Summary for Programmer
 In short:
 We want to build a CRM / operations system for a landscaping-style service business.
 We do not need the full dream system on day one.
