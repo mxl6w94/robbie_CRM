@@ -1,3 +1,24 @@
+27. Summary for Programmer
+In short:
+We want to build a CRM / operations system for a landscaping-style service business.
+We do not need the full dream system on day one.
+We do need a working MVP as soon as possible that starts consolidating our operations.
+The immediate focus should be:
+client database
+property/job relationships
+job/work order pages
+historical notes/logs
+basic internal operational use
+We are okay with:
+rough first version
+reasonable default dropdowns/fields
+delaying advanced integrations and user-facing portals
+We want the programmer to help guide what is realistic for the first version while keeping future expansion in mind.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
